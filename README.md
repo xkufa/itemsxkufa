@@ -1,6 +1,6 @@
 # 🎮 Free Fire Item Icons API  
 
-Get **Free Fire item icons without watermark** by **Shah G Creator**.  
+Get **Free Fire item icons without watermark** by **X-KUFA**.  
 
 ---
 
