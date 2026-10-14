@@ -17,4 +17,4 @@ Replace **`{item_ID}`** with the actual Free Fire item ID.
 
 ## 📌 Example 
 ```url
-https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/907092607.png
+https://cdn.jsdelivr.net/gh/xkufa/itemsxkufa@main/PNG/1001000001.png
